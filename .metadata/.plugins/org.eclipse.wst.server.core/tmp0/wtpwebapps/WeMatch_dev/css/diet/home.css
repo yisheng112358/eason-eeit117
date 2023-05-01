@@ -1,0 +1,51 @@
+
+.home{
+    position:absolute;
+    margin-top:50px;
+    margin-left: 20px;
+    background-color: white;
+    font-size:150%;
+}
+.home:hover{
+	background-color: #FFA488;
+	color:white;
+}
+
+.base{
+    position:absolute;
+    margin-top:90px;
+    margin-left: 20px;
+    background-color: white;
+    font-size:150%;
+    color:white;
+}
+.base:hover{
+	background-color:#FFA488;
+}
+
+.food{
+    position:absolute;
+    margin-top:130px;
+    margin-left: 20px;
+    background-color: white;
+    font-size:150%;
+}
+.food:hover{
+	background-color: #FFA488;
+}
+
+.count{
+    position:absolute;
+    margin-top:170px;
+    margin-left: 20px;
+    background-color: white;
+    font-size:150%;
+}
+.count:hover{
+	background-color: #FFA488;
+}
+a:hover{
+	color:black;
+}
+
+
