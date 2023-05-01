@@ -1,0 +1,6 @@
+How to demo Project Fitness Space:
+   1. Execute SQLResource\create_table.sql to create tables.
+   2. Execute SQLResource\insert_table.sql to insert data.
+   3. Execute src\tw\eeit117\wematch\product\TestProductsGenerator.java  to insert data.
+   4. Execute src\tw\eeit117\wematch\coach\model\TestCoachesGenerator.java  to insert data.
+   5. Run wematch_dev project to index.jsp -> login then select each link on header to demo.
